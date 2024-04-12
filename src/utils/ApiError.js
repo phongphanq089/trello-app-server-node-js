@@ -23,3 +23,5 @@ export default ApiError
 console.log("TEST GIT COMMIT 1")
 
 console.log("TEST GIT COMMIT 1, sữa lại code trong test git lần 1")
+
+console.log("TEST GIT COMMIT 2, sữa lại code trong test git lần 2")
