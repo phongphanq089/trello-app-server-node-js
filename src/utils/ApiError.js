@@ -20,4 +20,4 @@ class ApiError extends Error {
 
 export default ApiError
 
-console.log("TEST GIT COMMIT 2, sữa lại code trong test git lần 2")
+console.log('TEST GIT COMMIT 2, sữa lại code trong test git lần 2')
