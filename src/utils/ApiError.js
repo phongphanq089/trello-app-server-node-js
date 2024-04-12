@@ -35,3 +35,7 @@ console.log("TEST GIT COMMIT 5, sữa lại code trong test git lần 5")
 console.log("TEST GIT COMMIT 6, sữa lại code trong test git lần 6")
 
 console.log("TEST GIT COMMIT 7, sữa lại code trong test git lần 7")
+
+console.log("TEST GIT COMMIT 8, sữa lại code trong test git lần 8")
+
+console.log("TEST GIT COMMIT 9, sữa lại code trong test git lần 9")
